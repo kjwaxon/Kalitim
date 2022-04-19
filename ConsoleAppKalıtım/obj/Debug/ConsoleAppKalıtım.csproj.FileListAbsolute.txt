@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKalıtım\bin\Debug\ConsoleAppKalıtım.exe.config
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKalıtım\bin\Debug\ConsoleAppKalıtım.exe
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKalıtım\bin\Debug\ConsoleAppKalıtım.pdb
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKalıtım\obj\Debug\ConsoleAppKalıtım.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKalıtım\obj\Debug\ConsoleAppKalıtım.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKalıtım\obj\Debug\ConsoleAppKalıtım.exe
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKalıtım\obj\Debug\ConsoleAppKalıtım.pdb
